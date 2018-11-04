@@ -1,0 +1,9 @@
+app:
+  name: springboot-jwt-gestion
+
+jwt:
+  header: Authorization
+  expires_in: 1000 
+  mobile_expires_in: 100 
+  secret: meriem
+  cookie: AUTH-TOKEN
